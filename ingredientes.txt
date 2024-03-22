@@ -1,0 +1,85 @@
+maíz ,20
+frijol ,38
+chile poblano ,40
+aguacate ,80
+calabaza ,30
+chocolate ,50
+nopal ,20
+guayaba ,20
+canela ,15
+piloncillo ,10
+chorizo ,50
+papas ,40
+jitomate ,30
+clavo ,10
+pimienta ,10
+orégano ,10
+cebolla ,25
+pierna de puerco ,150
+lengua de res ,150
+panza de res ,120
+pasta ,15
+queso mozzarella ,50
+jitomates cherry ,50
+sal ,20
+aceite de oliva ,50
+granos de elote ,40
+pimiento rojo ,15
+queso manchego ,30
+cilantro ,15
+mayonesa ,50
+crema ,25 
+limón ,30
+jamón ,50 
+atún ,20
+Yoghurt Griego ,80
+chile jalapeño ,25
+vinagre ,30
+pasta de coditos ,10
+manzana verde ,50
+apio ,20
+uvas rojas ,60
+uvas verdes ,60
+arándano ,100
+nuez ,200
+tostada ,30
+brócoli ,30
+pasta fusilli ,20
+cebolla morada ,35
+pimentón rojo ,20
+tomates cherry ,50
+queso parmesano ,80
+crema de mantequilla ,50
+mantequilla ,17
+margarina ,11
+huevo ,40
+harina de trigo ,25
+harina ,25
+vainilla ,25
+mermelada ,35
+laurel ,20
+consomé de pollo ,80
+pasta rigatoni ,25
+huevo cocido ,15
+pechuga de pollo ,30
+tomate ,50
+champiñones ,30
+lechuga ,20
+cacahuete ,50
+maní ,50
+albahaca ,50
+pasta corta ,20
+zanahoria ,20
+perejil ,10
+cebollín ,50
+maíz dulce ,50
+queso amarillo ,50
+comino ,10
+salmón ahumado ,150
+tomillo ,10
+romero ,10
+hinojo ,20
+carne picada ,80
+espagueti ,15
+calabacín ,20
+vino tinto ,150

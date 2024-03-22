@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema id="stock" 
+    xmlns:xsd="http://www.w3c.org/2001/XMLSchema" 
+    targetNamespace="http://elvex.ugr.es/stock.xsd">
+
+<xsd:complexType>
+
+    <xsd:sequence>
+
+    <xsd:element name="ID" type="xsd:unsignedInt" />
+    <xsd:element name="description" type="xsd:string" />
+    <xsd:element name="price" type="xsd:decimal" />
+    <xsd:element name="quantity" type="xsd:integer" />
+
+    </xsd:sequence>
+
+</xsd:complexType>
+
+</xsd:schema>
